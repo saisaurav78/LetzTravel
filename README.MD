@@ -1,0 +1,1 @@
+LetzTravel, a static webpage developed using HTML, CSS 
